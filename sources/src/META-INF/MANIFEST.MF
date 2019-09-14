@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+ de.m6c7l.sniffer.Start
+Class-Path: 
+ lib/rxtx/nrjavaserial-3.15.0.jar 
